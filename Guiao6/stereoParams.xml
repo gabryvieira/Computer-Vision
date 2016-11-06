@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cameraMatrix_1 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    5.7138698998458972e+02 0. 3.6473297931277449e+02 0.
+    5.5696062220603051e+02 2.5220566897473466e+02 0. 0. 1.</data></cameraMatrix_1>
+<distCoeffs_1 type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    -2.5451629689067001e-01 1.9279241569751074e-01
+    -1.6798462796271199e-03 2.3027436119502927e-02
+    -1.2838981716204551e-01</data></distCoeffs_1>
+<cameraMatrix_2 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    5.5994944648413571e+02 0. 3.5082756593670024e+02 0.
+    5.6302127613737832e+02 2.3385777469609181e+02 0. 0. 1.</data></cameraMatrix_2>
+<distCoeffs_2 type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    -4.8570573185961191e-01 1.7475908406455720e+00
+    4.9687215534607008e-04 1.3814048691405257e-03
+    -3.9846820537322838e+00</data></distCoeffs_2>
+<rotation type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9895992852286175e-01 -3.2081172133934703e-03
+    4.5483724446709575e-02 2.6147576728679997e-03 9.9991078519251897e-01
+    1.3099034238920983e-02 -4.5521689862210252e-02
+    -1.2966481389543379e-02 9.9887919495425648e-01</data></rotation>
+<translation type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    3.3427649512117337e+00 -3.0308341398129397e-02
+    1.1817534412763077e-01</data></translation>
+<essential type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1.0706870295620955e-03 -1.1777180859236865e-01
+    -3.1822354535086361e-02 2.7022074271422952e-01
+    4.2964779173810280e-02 -3.3336433085989849e+00
+    3.9017338861496942e-02 3.3423694943684081e+00 4.5165528797176842e-02</data></essential>
+<fundamental type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -7.9868477640150425e-08 9.0128068893159096e-06
+    -8.8758860907232179e-04 -2.0047284841128663e-05
+    -3.2700569653185372e-06 1.4945101202091984e-01
+    3.0864897134883803e-03 -1.4562325796997189e-01 1.</data></fundamental>
+</opencv_storage>
